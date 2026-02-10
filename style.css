@@ -1,0 +1,44 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+ul li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+ul li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 27px 27px;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+ul li a:hover {
+  background-color: #41bd62;
+}
+body {
+ background-color: #b0f3ff;
+ font-family: Tahoma;
+ color: #1d0039de;
+}
+h1 {
+ color: rgb(216, 178, 52);
+ font-size: 50px;
+}
