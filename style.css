@@ -2,6 +2,7 @@
 body {
   margin: 0px;
   padding: 0px;
+  background: linear-gradient(rgb(242, 203, 208), rgb(179, 233, 255),);
 }
 
 h2, p {
@@ -34,7 +35,7 @@ ul li a:hover {
   background-color: #41bd62;
 }
 body {
- background-color: #b0f3ff;
+ background: linear-gradient(rgb(242, 203, 208), rgb(179, 233, 255));
  font-family: Tahoma;
  color: #1d0039de;
 }
